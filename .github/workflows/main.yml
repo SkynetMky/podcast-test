@@ -9,7 +9,7 @@ jobs:
       - name: Run Generator
         uses: SkynetMky/podcast-generator@main
 
-# replaced with dockerfile
+# not needed with dockerfile
 #       - name: Setup Python
 #        uses: actions/setup-python@v4
 #        with:
