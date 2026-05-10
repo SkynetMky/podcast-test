@@ -8,7 +8,8 @@ jobs:
         uses: actions/checkout@v3
       - name: Run Generator
         uses: SkynetMky/podcast-generator@main
-        
+
+# replaced with dockerfile
 #       - name: Setup Python
 #        uses: actions/setup-python@v4
 #        with:
